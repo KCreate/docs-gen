@@ -1,6 +1,6 @@
 {
   "name": "docs-gen",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Extract inline comments from source files and show them inside a web page.",
   "main": "index.js",
   "scripts": {
